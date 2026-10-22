@@ -46,16 +46,17 @@ A full-stack online shopping experience powered by a Node.js backend, MongoDB, a
       <img src="screenshots/order-tracking.png" alt="VELOCITY order tracking screenshot" width="100%" />
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Checkout Page</strong><br />
+      <img src="screenshots/checkout.png" alt="VELOCITY Checkout page screenshot" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Admin Dashboard</strong><br />
+      <img src="screenshots/admin-dashboard.png" alt="VELOCITY admdmin dashboard screenshot" width="100%" />
+    </td>
+  </tr>
 </table>
-
-<details>
-  <summary><strong>More screenshots to add</strong></summary>
-
-  - `screenshots/product-details.png` — Product details
-  - `screenshots/checkout.png` — Checkout (test mode)
-  - `screenshots/admin-dashboard.png` — Admin dashboard
-
-</details>
 
 ---
 
